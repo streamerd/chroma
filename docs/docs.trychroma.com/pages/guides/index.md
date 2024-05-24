@@ -159,7 +159,7 @@ import { ChromaClient } from 'chromadb'
 const client = new ChromaClient();
 ```
 
-You can also run the Chroma server in a docker container, or deployed to a cloud provider. See the [deployment docs](./deployment.md) for more information.
+You can also run the Chroma server in a docker container, or deployed to a cloud provider. See the [deployment docs](./deployment) for more information.
 
 {% /tab %}
 
